@@ -68,4 +68,6 @@ public String pigLatin(String sWord)
   {
     return "ERROR!";
   }
-}//end PigLatin class
+}
+}
+	//end PigLatin class
